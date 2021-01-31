@@ -1,5 +1,6 @@
 {
-    "bg": "https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif",
+    "backgroundImage": "https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif",
+    "logo": "https://www.mastermeltgroup.com/wp-content/uploads/2020/04/quiz.png",
     "face": "https://i.pinimg.com/564x/84/15/2f/84152f897a7985b6fe954cd024a453f9.jpg",
     "title": "Quiz CSS da Alura",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
@@ -32,7 +33,7 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#4a148c",
+        "primary": "#977bd1",
         "secondary": "#651fff",
         "mainBg": "#171B35",
         "contrastText": "#FFFFFF",
